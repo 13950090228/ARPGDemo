@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI.Perception.AbstractTrigger" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAAAAAAAAAACAAAAACAIAAAAA=</HashCode>
+      <FileName>Assets\Script\AI\Perception\AbstractTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.Perception.AbstractSensor">
+    <Position X="1.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAACAAAAAAAAAAgAAAAAAAACAAAAgAABAAAAA=</HashCode>
+      <FileName>Assets\Script\AI\Perception\AbstractSensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AI.Perception.TriggerType" Collapsed="true">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Script\AI\Perception\TriggerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
